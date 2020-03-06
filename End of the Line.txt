@@ -20,6 +20,11 @@ Intro Riff:
 -------------------
 -------------------
 
+{Notes on Intro: 
+- on First C, mute the A string
+- play last G7 4535
+- play last C 5433
+}
 Intro:
 [F]x4 [C]x2 [rest]x2
 [F]x4 [G7] [C] [rest]x2

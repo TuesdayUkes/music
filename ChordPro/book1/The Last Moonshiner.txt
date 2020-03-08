@@ -2,17 +2,18 @@
 {Arranged for Uke by Paul}
 
 F# minor
-[F#m]
-[A]
-[Bm]
-[E]
+i - [F#m]
+III - [A]
+iv - [Bm]
+VI - [D]
+VII - [E]
 
 G minor
-[Gm]
-[Bb]
-[Cm]
-[F]
-[D#]
+i - [Gm]
+III - [Bb]
+iv - [Cm]
+VI - [D#]
+VII - [F]
 
 {Key: F# minor}
 [F#m]They're buying a license

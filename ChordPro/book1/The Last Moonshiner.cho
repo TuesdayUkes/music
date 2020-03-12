@@ -2,19 +2,13 @@
 {artist: Buddy Melton & Milan Miller}
 {key:F#m}
 
-F# minor
-i - [F#m]
-III - [A]
-iv - [Bm]
-VI - [D]
-VII - [E]
-
-G minor
-i - [Gm]
-III - [Bb]
-iv - [Cm]
-VI - [D#]
-VII - [F]
+[Dm] intro riff (play twice):
+{start_of_tab}
+------------------------
+--3/5-5-3---------------
+----------5-4-5-4-2-----
+--------------------5-2-
+{end_of_tab}
 
 {key:F#m}
 [F#m]They're buying a license
@@ -72,7 +66,23 @@ I just wasn't [Cm]made for these [Gm]times.
 I'm the [D#]last moon[Gm]shiner
 I just wasn't [D#]made [Cm]for these [Gm]times.
 
-{keep strumming [Gm]}
+[D#m] outtro riff (play twice):
+{start_of_tab}
+------------------------
+--4/6-6-4---------------
+----------6-5-6-5-3-----
+--------------------6-3-
+{end_of_tab}
+
+{start_of_tab}
+--------------------------------
+--4/6-6-4-----------------------
+----------6-5-6-5-3-------3h6p3-
+--------------------6-3-6-------
+{end_of_tab}
+
+keep strumming [Gm]
+[Gm] outtro tab:
 {start_of_tab}
 --3/5-5-3---------------------
 ----------6-5-6-5-3-----------

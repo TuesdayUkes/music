@@ -1,0 +1,35 @@
+Website Song Project
+
+
+================================
+NOTES ABOUT DISCUSSIONS
+================================
+9/3/2020
+
+Question:
+  - will the json file be kept?  Or is it discarded once Paul M. has pulled the info into
+     the database?
+
+Marty's naming convention proposal:
+
+ - Each unique song gets a unique filename:
+    "song_name_xx_yy"  with it's associated filetype, where xx is version of song, yy is key
+
+   Each 'xx' is intended to separate songs of the same name from one another as well as
+     major differences between artists
+
+9/2/2020
+
+ - Initial Zoom meeting:  Paul Butler, Paul Maine, Walter, Marty
+
+  Major work item:  come up with content of the metadata and establish naming conventions
+    for files.
+================================
+CURRENT STATE OF DECISIONS
+================================
+  
+  File naming conventions:
+
+  json file structure:
+
+=================================

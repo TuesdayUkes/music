@@ -20,7 +20,22 @@
     "diagrams" : {
 	"show" : "all"
     },
-    
+		
+		"chords" : [
+			{
+			"name" : "Fm6",
+			"frets" : [1, 2, 1, 3],
+			},
+			{
+			"name" : "Cm6",
+			"frets" : [2, 3, 3, 3],
+			},
+			{
+			"name" : "Em",
+			"frets" : [0, 4, 3, 2],
+			},
+		],
+
     // Layout definitions for PDF output.
 
     "pdf" : {
@@ -41,8 +56,8 @@
 		"fallback" : "comment",
 	},
 
-	"papersize" : "a4",
-// "papersize" : [500, 1000],
+	//"papersize" : "a4",
+  "papersize" : [400,725],
 
 	// Fonts.
 

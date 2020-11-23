@@ -23,6 +23,14 @@
 		
 		"chords" : [
 			{
+			"name" : "A7+5",
+			"frets" : [0, 1, 1, 0],
+			},
+			{
+			"name" : "A7sus4",
+			"frets" : [0, 2, 0, 0],
+			},
+			{
 			"name" : "Ew",
 			"base" : 4,
 			"frets" : [1, 1, 1, 4],
@@ -40,10 +48,6 @@
 			"frets" : [2, 0, 1, 0],
 			},
 			{
-			"name" : "A7sus4",
-			"frets" : [0, 2, 0, 0],
-			},
-			{
 			"name" : "Fm6",
 			"frets" : [1, 2, 1, 3],
 			},
@@ -52,13 +56,33 @@
 			"frets" : [2, 3, 3, 3],
 			},
 			{
+			"name" : "D6",
+			"frets" : [2, 2, 2, 2],
+			},
+			{
+			"name" : "Edim7",
+			"frets" : [0, 1, 0, 1],
+			},
+			{
 			"name" : "Em",
 			"frets" : [0, 4, 3, 2],
+			},
+			{
+			"name" : "Em6",
+			"frets" : [0, 1, 0, 2],
 			},
 			{
 			"name" : "E7sus4",
 			"base" : 4,
 			"frets" : [1, 1, 2, 2],
+			},
+			{
+			"name" : "Fadd9",
+			"frets" : [0, 0, 1, 0],
+			},
+			{
+			"name" : "F#m7b5",
+			"frets" : [2, 4, 2, 3],
 			},
 		],
 
@@ -83,7 +107,7 @@
 	},
 
 	//"papersize" : "a4",
-  "papersize" : [460,775],
+  "papersize" : [550,830],
 
 	// Fonts.
 

@@ -139,8 +139,8 @@
 		"fallback" : "comment",
 	},
 
-	//"papersize" : "a4",
-  "papersize" : [575,600],
+//	"papersize" : "a4",
+  "papersize" : [575,900],
 
 	// Fonts.
 

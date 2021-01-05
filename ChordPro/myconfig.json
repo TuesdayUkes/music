@@ -85,6 +85,10 @@
 			"frets" : [2, 4, 2, 3],
 			},
 			{
+			"name" : "C7_2",
+			"frets" : [3, 4, 3, 3],
+			},
+			{
 			"name" : "C_2",
 			"frets" : [3, 2, 1, 1],
 			"base" : 3,
@@ -121,6 +125,10 @@
 			"name" : "C7+5",
 			"frets" : [1, 0, 0, 1],
 			},
+			{
+			"name" : "F#dim",
+			"frets" : [2, 0, 2, 0],
+			},
 		],
 
     // Layout definitions for PDF output.
@@ -144,7 +152,7 @@
 	},
 
 //	"papersize" : "a4",
-  "papersize" : [575,675],
+  "papersize" : [575,450],
 
 	// Fonts.
 

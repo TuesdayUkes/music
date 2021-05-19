@@ -76,6 +76,10 @@
 			"frets" : [0, 1, 0, 2],
 			},
 			{
+			"name" : "Em9",
+			"frets" : [0, 4, 2, 2],
+			},
+			{
 			"name" : "E7sus4",
 			"base" : 4,
 			"frets" : [1, 1, 2, 2],
@@ -136,6 +140,14 @@
 			{
 			"name" : "F#dim",
 			"frets" : [2, 0, 2, 0],
+			},
+			{
+			"name" : "Gdim",
+			"frets" : [3, 1, 3, 1],
+			},
+			{
+			"name" : "Gdim7",
+			"frets" : [0, 1, 0, 1],
 			},
 			{
 			"name" : "Ebaug",
@@ -255,7 +267,7 @@
 	},
 
 //	"papersize" : "a4",
-  "papersize" : [575,700],
+  "papersize" : [575,900],
 
 	// Fonts.
 

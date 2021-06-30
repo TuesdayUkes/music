@@ -244,6 +244,10 @@
 			"name" : "B7",
 			"frets" : [4, 3, 2, 0],
 			},
+			{
+			"name" : "Am6/9",
+			"frets" : [2, 0, 2, 2],
+			},
 		],
 
     // Layout definitions for PDF output.
@@ -267,14 +271,14 @@
 	},
 
 //	"papersize" : "a4",
-  "papersize" : [575,900],
+  "papersize" : [575,850],
 
 	// Fonts.
 
 	"fonts" : {
 	    "title" : {
 		"name" : "Helvetica-Bold",
-		"size" : 14
+		"size" : 12
 	    },
 	    "text" : {
 		"name" : "Helvetica",

@@ -23,6 +23,10 @@
 		
 		"chords" : [
 			{
+			"name" : "Am6",
+			"frets" : [2, 0, 2, 0],
+			},
+			{
 			"name" : "AmMaj7",
 			"frets" : [1, 0, 0, 0],
 			},
@@ -150,6 +154,10 @@
 			"frets" : [0, 1, 0, 1],
 			},
 			{
+			"name" : "G/A",
+			"frets" : [0, 2, 5, 2],
+			},
+			{
 			"name" : "Ebaug",
 			"frets" : [0, 3, 3, 2],
 			},
@@ -248,6 +256,10 @@
 			"name" : "Am6/9",
 			"frets" : [2, 0, 2, 2],
 			},
+			{
+			"name" : "Am9",
+			"frets" : [2, 0, 3, 2],
+			},
 		],
 
     // Layout definitions for PDF output.
@@ -270,8 +282,8 @@
 		"fallback" : "comment",
 	},
 
-//	"papersize" : "a4",
-  "papersize" : [575,900],
+	"papersize" : "a4",
+//  "papersize" : [600,1540],
 
 	// Fonts.
 
@@ -286,7 +298,7 @@
 	    },
 	    "chord" : {
 		"name" : "Helvetica-bold",
-		"color" : "blue",
+		"color" : "red",
 		"size" : 11
 	    },
 	    "comment" : {

@@ -38,13 +38,6 @@ for p in allFiles:
   else:
     allTitles.append([l(p), str(p)])
 
-with open("tst.txt", "w") as tstOutput:
-  for t in allTitles:
-    try:
-      tstOutput.write(f'{t}\n')
-    except:
-      print(f"failed to write {t}")
-
 sortedTitles = sorted(allTitles, key=(lambda e: e[0].casefold()))
 with open("PDFLinks.html", "w") as htmlOutput:
   htmlOutput.writelines(header)

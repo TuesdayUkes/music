@@ -24,5 +24,7 @@ sortedFiles = sorted(allPdfFiles, key=(lambda p: l(p).casefold()))
 with open("PDFLinks.html", "w") as htmlOutput:
   htmlOutput.writelines(header)
   for f in sortedFiles:
-    htmlOutput.write(f"<a href=\"{str(f)}\" download>{l(f)}</a><br>\n")
+    htmlOutput.write(f"  <a href=\"{str(f)}\" download>{l(f)}</a><br>\n")
+  htmlOutput.write("</div>\n")
+  htmlOutput.write("</div>\n")
   htmlOutput.write("</body>\n")

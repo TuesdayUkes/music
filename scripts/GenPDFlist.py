@@ -8,6 +8,14 @@ l = lambda p: str(os.path.splitext(os.path.basename(p))[0])
 # lambda ext is like lambda l, except it returns the file extension
 ext = lambda p: str(os.path.splitext(os.path.basename(p))[1])
 
+articles = ['a', 'an', 'the']
+def dictCompare(s):
+  sWords = s.split()
+  if sWords[0].lower() in articles:
+    return ' '.join(sWords[1:])
+  else:
+    return s
+
 with open("scripts/HTMLheader.txt", "r") as headerText:
   header = headerText.readlines()
 
@@ -18,7 +26,6 @@ for p in Path("./").rglob('*.chopro'):
   allFiles.append(p)
 for p in Path("./").rglob('*.cho'):
   allFiles.append(p)
-
 
 def findMatchingBasename(files, basename):
   matches = [f for f in files if f[0].lower() == l(basename).lower()]
@@ -42,7 +49,7 @@ for p in allFiles:
     # found a song for the first time. Add the title and the filename
     allTitles.append([l(p), str(p)])
 
-sortedTitles = sorted(allTitles, key=(lambda e: e[0].casefold()))
+sortedTitles = sorted(allTitles, key=(lambda e: dictCompare(e[0]).casefold()))
 with open("PDFLinks.html", "w") as htmlOutput:
   htmlOutput.writelines(header)
   htmlOutput.write("<table>")

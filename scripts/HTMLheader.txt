@@ -427,6 +427,7 @@
 		<style id="custom-background-css">
 body.custom-background { background-color: #ededb6; }
 table, th, td {
+  font-size: large;
   border: 1px solid black;
 	border-style: dotted;
   border-collapse: collapse;

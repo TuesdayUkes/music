@@ -60,7 +60,7 @@ with open("PDFLinks.html", "w") as htmlOutput:
       htmlOutput.write(f"  <td>{f[0]}</td>\n<td>")
       # the remainder of f's elements are files that match the title in f[0]
       for i in f[1:]:
-        htmlOutput.write(f"  <a href=\"{str(i)}\" download>{ext(i)}</a>\n")
+        htmlOutput.write(f"  <a href=\"{str(i)}\">{ext(i)}</a>\n")
 
       # close each table row (and the table data containing file links)
       htmlOutput.write("</td></tr>\n")

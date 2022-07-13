@@ -1,10 +1,12 @@
 document.write('\
-<a href="https://youtu.be/1boYokKTnN4?t=18m23s">18:23</a> Walter <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Diddy%20Wah%20Diddy.pdf>Diddy Wah Diddy</a><br>\
-<a href="https://youtu.be/1boYokKTnN4?t=24m50s">24:50</a> Mary Jane <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Power%20and%20the%20Glory.pdf>Power and the Glory</a><br>\
-<a href="https://youtu.be/1boYokKTnN4?t=34m18s">34:18</a> Paul <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Don\'t%20Think%20Twice%2C%20It\'s%20Alright.pdf>Don\'t Think Twice It\'s Alright</a><br>\
-<a href="https://youtu.be/1boYokKTnN4?t=43m15s">43:15</a> Vany <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/my-only-child.pdf>My Only Child</a><br>\
-<a href="https://youtu.be/1boYokKTnN4?t=54m37s">54:37</a> Rich <a href=https://www.doctoruke.com/_player/itneverrains.html>It Never Rains in Southern California</a><br>\
-<a href="https://youtu.be/1boYokKTnN4?t=1h00m33s">1:00:33</a> Gary Phelps <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Proud%20Mary.pdf>Proud Mary</a><br>\
-<a href="https://youtu.be/1boYokKTnN4?t=1h17m33s">1:17:33</a> Mary Jane <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Bread%20and%20Roses.pdf>Bread and Roses</a><br>\
-<a href="https://youtu.be/1boYokKTnN4?t=1h22m33s">1:22:33</a> (Happy Trails)<br>\
+<a href="https://youtu.be/-HATVlbk0zc?t=3m45s">3:45</a> Vany (Crazy)<br>\
+<a href="https://youtu.be/-HATVlbk0zc?t=9m55s">9:55</a> Gary <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Proud%20Mary.pdf>Proud Mary</a><br>\
+<a href="https://youtu.be/-HATVlbk0zc?t=27m26s">27:26</a> Mary Jane <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/My%20Mexican%20Home.pdf>My Mexican Home</a><br>\
+<a href="https://youtu.be/-HATVlbk0zc?t=33m29s">33:29</a> Walter <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/All%20Together%20Now.pdf>All Together Now</a><br>\
+<a href="https://youtu.be/-HATVlbk0zc?t=42m02s">42:02</a> Errol (Deep River Blues)<br>\
+<a href="https://youtu.be/-HATVlbk0zc?t=54m15s">54:15</a> Gary <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Stand%20by%20Me.pdf>Stand By Me</a><br>\
+<a href="https://youtu.be/-HATVlbk0zc?t=1h00m45s">1:00:45</a> Brenda <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Scarborough%20Fair.pdf>Scarborough Fair</a><br>\
+<a href="https://youtu.be/-HATVlbk0zc?t=1h06m00s">1:06:00</a> Paul <a href=https://www.doctoruke.com/_player/reminiscing.html>Reminiscing</a><br>\
+<a href="https://youtu.be/-HATVlbk0zc?t=1h12m37s">1:12:37</a> Mary Jane <a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Angel%20From%20Montgomery.pdf>Angel from Montgomery</a><br>\
+<a href="https://youtu.be/-HATVlbk0zc?t=1h17m22s">1:17:22</a> (Happy Trails)<br>\
 ')

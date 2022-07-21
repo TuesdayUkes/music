@@ -22,8 +22,8 @@ with open(HtmlFilename, "w") as HtmlFile:
   with open(JsFilename, "w") as JsFile:
     JsFile.write("document.write('\\")
     JsFile.write("\n")
-    HtmlFile.write("<table border= \"1\">\n")
-    JsFile.write("<table border= \"1\">\\\n")
+    HtmlFile.write("<table>\n")
+    JsFile.write("<table>\\\n")
     for l in sourceLines:
       HtmlFile.write("<tr>")
       JsFile.write("<tr>")

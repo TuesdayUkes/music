@@ -2,12 +2,10 @@
 {st: Holly Near}
 
 {c: Instrumental Intro:}
-{textcolour: red}
-[C] I am open and I am willing.
-To be [G] hopeless would [C] seem so strange.
-It dishonors those [Am] who go be-[F]-fore us
-So lift me [G] up to the [C] light of change
-{textcolour}
+&blue: [C] I am open and I am willing.
+&blue: To be [G] hopeless would [C] seem so strange.
+&blue: It dishonors those [Am] who go be-[F]-fore us
+&blue: So lift me [G] up to the [C] light of change
 
 {c: Chorus:}
 [C] I am open and I am willing.
@@ -53,6 +51,4 @@ So lift me [G] up to the [C] light of change
 [F] So lift me [G] up to the [C] light of change
 
 {c: Instrumental:}
-{textcolour: red}
-[F] So lift me [G] up to the [C] light of change
-{textcolour}
+&blue: [F] So lift me [G] up to the [C] light of change

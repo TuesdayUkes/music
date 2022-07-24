@@ -2,9 +2,7 @@
 {st: Paul Charles Craft   1976}
 
 {c: Instrumental Intro:  first line}
-{textcolour: blue}
-[A] Dropkick me, Jesus, through the [E7] goal posts of life
-{textcolour}
+&blue: [A] Dropkick me, Jesus, through the [E7] goal posts of life
 
 {c: Chorus:}
 [A] Dropkick me, Jesus, through the [E7] goal posts of life
@@ -37,12 +35,10 @@
 [A] Dropkick me, Jesus, through the [E7] goal posts of [A] life
 
 {c: Instrumental chorus:}
-{textcolour: blue}
-[A] Dropkick me, Jesus, through the [E7] goal posts of life
-[E7] End over end, neither left nor to [A] right
-[A] Straight through the heart of them, [A7] righteous up-[D]-rights
-[A] Dropkick me, Jesus, through the [E7] goal posts of [A] life
-{textcolour}
+&blue: [A] Dropkick me, Jesus, through the [E7] goal posts of life
+&blue: [E7] End over end, neither left nor to [A] right
+&blue: [A] Straight through the heart of them, [A7] righteous up-[D]-rights
+&blue: [A] Dropkick me, Jesus, through the [E7] goal posts of [A] life
 
 {c: Verse 3:}
 [A] A lowly benchwarmer I'm con-[E7]-tented to be

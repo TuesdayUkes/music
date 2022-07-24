@@ -41,16 +41,14 @@ And a [Am] fish that sings
 "[D] Take me to the river"
 
 {c: Instrumental}
-{textcolour: red}
-Some [Em] socks with flames
-Some [Am] pills for your pain
-Some [D] razors infused
-With the [G] essence of rain
-A [G] cigarette lighter
-That [Am] says “I'm a quitter”
-And a [Am] fish that sings
-"[D] Take me to the river"
-{textcolour}
+&blue: Some [Em] socks with flames
+&blue: Some [Am] pills for your pain
+&blue: Some [D] razors infused
+&blue: With the [G] essence of rain
+&blue: A [G] cigarette lighter
+&blue: That [Am] says “I'm a quitter”
+&blue: And a [Am] fish that sings
+&blue: "[D] Take me to the river"
 
 {c: Chorus}
 [G] You can get more at that [Em] poor people's store

@@ -2,10 +2,8 @@
 {st:  John Prine}
 
 {c: Intro first 2 lines:}
-{textcolour: red}
-[C] Summer’s end’s   around the bend just    [Em]  flying
-The [C] swimming suits   are  on the line just  [Em]  drying
-{textcolour}
+&blue: [C] Summer’s end’s   around the bend just    [Em]  flying
+&blue: The [C] swimming suits   are  on the line just  [Em]  drying
 
 {c: Verse 1}
 [C] Summer’s end’s   around the bend just    [Em]   flying
@@ -25,10 +23,8 @@ No you don’t [F] have to    be a- [G] -lone
 Just  come on  [C]  home.
 
 {c: Instrum break:}
-{textcolour: red}
-[C] Summer’s end’s   around the bend just    [Em]  flying
-The [C] swimming suits   are  on the line just  [Em]  drying
-{textcolour}
+&blue: [C] Summer’s end’s   around the bend just    [Em]  flying
+&blue: The [C] swimming suits   are  on the line just  [Em]  drying
 
 {c: Verse 3}
 [C] Valentines   break hearts and minds at  [Em]  random
@@ -42,10 +38,8 @@ No you don’t  [F]  have to     be a- [G] -lone
 Just come on [F] home.
 
 {c: Instrumental:}
-{textcolour: red }
-[Am] No you don’t  [F]  have to   be a- [G] -lone.
-Just come on [F] home.     [G]
-{textcolour}
+&blue: [Am] No you don’t  [F]  have to   be a- [G] -lone.
+&blue: Just come on [F] home.     [G]
 
 {c: Verse 4}
 The [C] moon and stars   hang out in bars just  [Em]  talking

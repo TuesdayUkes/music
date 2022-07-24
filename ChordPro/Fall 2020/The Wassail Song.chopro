@@ -2,9 +2,7 @@
 {st:		English Traditional Carol}
 
 {c: Instrumental 1st line verse:}
-{textcolour:red}
-[G] Here we come a wassailing, among the [D]leaves so green
-{textcolour}
+&blue: [G] Here we come a wassailing, among the [D]leaves so green
 
 {c: Verse 1: }
 [G] Here we come a wassailing,
@@ -42,13 +40,11 @@ And God bless [C]you, and [D]send you,
 [G] And God send [Em]you a [C]hap-[D]-py New [G]Year.
 
 {c: Instrumental Chorus:}
-{textcolour:red}
-Love and [G]joy [C]come to [G]you,
-	and to you your [C]wassail [G]too
-And God bless [C]you, and [D]send you,
-	a [G]happy New [C]Year.
-[G] And God send [Em]you a [C]hap-[D]-py New [G]Year.
-{textcolour}
+&blue: Love and [G]joy [C]come to [G]you,
+&blue: 	and to you your [C]wassail [G]too
+&blue: And God bless [C]you, and [D]send you,
+&blue: 	a [G]happy New [C]Year.
+&blue: [G] And God send [Em]you a [C]hap-[D]-py New [G]Year.
 
 {c: Verse 5:}
 Call [G]up the butler of this house, put [D]on his golden ring
@@ -86,8 +82,6 @@ And God bless [C]you, and [D]send you,
 [G] And God send [Em]you a [C]hap-[D]-py New [G]Year.
 
 {c: Instrumental last line chorus:}
-{textcolour:red}
-[G] And God send [Em]you a [C]hap-[D]-py New [G]Year.
-{textcolour}
+&blue: [G] And God send [Em]you a [C]hap-[D]-py New [G]Year.
 
 

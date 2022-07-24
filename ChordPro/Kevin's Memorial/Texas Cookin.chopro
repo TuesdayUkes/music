@@ -1,13 +1,11 @@
 {t: Texas Cookin}
 Leader: Brenda
 [G]
-{textcolour: red}
-Walter - Instrumental
-Oh my, momma ain't that Texas Cookin' something
-Oh my, momma it'll stop yo' belly and backbone bumpin'
-Oh my, momma ain't that Texas Cookin' good
-Oh my, momma eat it everyday if I could
-{textcolour}
+&blue: Walter - Instrumental
+&blue: Oh my, momma ain't that Texas Cookin' something
+&blue: Oh my, momma it'll stop yo' belly and backbone bumpin'
+&blue: Oh my, momma ain't that Texas Cookin' good
+&blue: Oh my, momma eat it everyday if I could
 
  I'm going down to Austin, Texas
 I'm going down to save my soul
@@ -37,13 +35,11 @@ Oh my, momma it'll stop yo' belly and backbone bumpin'
 Oh my, momma ain't that Texas Cookin' good
 Oh my, momma eat it everyday if I could
 
-{textcolour: red}
-Walter - Instrumental
-Oh my, momma ain't that Texas Cookin' something
-Oh my, momma it'll stop yo' belly and backbone bumpin'
-Oh my, momma ain't that Texas Cookin' good
-Oh my, momma eat it everyday if I could
-{textcolour}
+&blue: Walter - Instrumental
+&blue: Oh my, momma ain't that Texas Cookin' something
+&blue: Oh my, momma it'll stop yo' belly and backbone bumpin'
+&blue: Oh my, momma ain't that Texas Cookin' good
+&blue: Oh my, momma eat it everyday if I could
 
 I know a place that got fried okra
 beat anything I ever saw
@@ -60,10 +56,8 @@ Oh my, momma it'll stop yo' belly and backbone bumpin'
 Oh my, momma ain't that Texas Cookin' good
 Oh my, momma eat it everyday if I could
 
-{textcolour: red}
-Walter - Instrumental
-Oh my, momma ain't that Texas Cookin' something
-Oh my, momma it'll stop yo' belly and backbone bumpin'
-Oh my, momma ain't that Texas Cookin' good
-Oh my, momma eat it everyday if I could
-{textcolour}
+&blue: Walter - Instrumental
+&blue: Oh my, momma ain't that Texas Cookin' something
+&blue: Oh my, momma it'll stop yo' belly and backbone bumpin'
+&blue: Oh my, momma ain't that Texas Cookin' good
+&blue: Oh my, momma eat it everyday if I could

@@ -2,10 +2,8 @@
 {st: John H. Hopkins}
 
 {c: Instrumental Intro Last Line Chorus:}
-{textcolour: red}
-[Am] Westward [G] leading, [F] still pro-[G] -ceeding,
-[C] Guide us to thy [F] perfect [C] light
-{textcolour}
+&blue: [Am] Westward [G] leading, [F] still pro-[G] -ceeding,
+&blue: [C] Guide us to thy [F] perfect [C] light
 
 {c: Verse 1:}
 [Am] We three kings of [E7]Orient [Am] are,
@@ -32,12 +30,10 @@
 [C] Guide us to thy [F]  perfect [C] light
 
 {c: Instrumental Break  Verse:}
-{textcolour: red}
-[Am] Frankincense to [E7] offer have [Am]  I;
-[Am] Incense owns a [E7] deity [Am]  nigh.
-[Am] Prayer and [G] praising, [C] all men raising,
-[Dm] Worshiping [Am] God on high.
-{textcolour}
+&blue: [Am] Frankincense to [E7] offer have [Am]  I;
+&blue: [Am] Incense owns a [E7] deity [Am]  nigh.
+&blue: [Am] Prayer and [G] praising, [C] all men raising,
+&blue: [Dm] Worshiping [Am] God on high.
 
 {c: Verse 3:}
 [Am] Frankincense to [E7] offer have [Am]  I;
@@ -64,10 +60,8 @@
 [C] Guide us to thy [F] perfect [C] light
 
 {c: Instrumental:}
-{textcolour: red}
-[Am] Westward [G] leading, [F] still pro-[G] -ceeding,
-[C] Guide us to thy [F] perfect [C] light.
-{textcolour}
+&blue: [Am] Westward [G] leading, [F] still pro-[G] -ceeding,
+&blue: [C] Guide us to thy [F] perfect [C] light.
 
 {c: Verse 5:}
 [Am] Glorious now, be-[E7]-hold him [Am] rise,
@@ -82,7 +76,5 @@
 [C] Guide us to thy [F] perfect [C] light.
 
 {c: Instrumental:}
-{textcolour: red}
-[Am] Westward [G] leading, [F] still pro-[G] -ceeding,
-[C] Guide us to thy [F] perfect [C] light.
-{textcolour}
+&blue: [Am] Westward [G] leading, [F] still pro-[G] -ceeding,
+&blue: [C] Guide us to thy [F] perfect [C] light.

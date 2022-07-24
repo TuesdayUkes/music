@@ -2,10 +2,8 @@
 {st: Lyle Lovett}
 
 {c: Instrumental 1st 2 lines Chorus:}
-{textcolour: red}
-[F] If I [C] had a boat, I'd [F] go out [C] on the ocean,
-And [F] if I [C] had a pony, I'd [Am] ride him on my [G] boat
-{textcolour}
+&blue: [F] If I [C] had a boat, I'd [F] go out [C] on the ocean,
+&blue: And [F] if I [C] had a pony, I'd [Am] ride him on my [G] boat
 
 [F] If I [C] had a boat, I'd [F] go out [C] on the ocean,
 And [F] if I [C] had a pony, I'd [Am] ride him on my [G] boat
@@ -34,12 +32,10 @@ And one [F] day said [C] “Kemo Sabe,
 [C] Kiss my ass I bought a boat, I'm [G] going out to [C] sea”
 
 {c: Instrumental Chorus:}
-{textcolour: red}
-[F] If I [C] had a boat, I'd [F] go out [C] on the ocean,
-And [F] if I [C] had a pony, I'd [Am] ride him on my [G] boat
-And [F] we could [C] all together, [F] Go out [C] on the ocean
-[C] Me upon my [G] pony on my [C] boat
-{textcolour}
+&blue: [F] If I [C] had a boat, I'd [F] go out [C] on the ocean,
+&blue: And [F] if I [C] had a pony, I'd [Am] ride him on my [G] boat
+&blue: And [F] we could [C] all together, [F] Go out [C] on the ocean
+&blue: [C] Me upon my [G] pony on my [C] boat
 
 {c: Chorus:}
 [F] If I [C] had a boat, I'd [F] go out [C] on the ocean,
@@ -62,6 +58,4 @@ And [F] we could [C] all together, [F] Go out [C] on the ocean
 [C] Me upon my [G] pony on my [C] boat
 
 {c: Instrumental last line Chorus:}
-{textcolour: red}
-[C] Me upon my [G] pony on my [C] boat
-{textcolour}
+&blue: [C] Me upon my [G] pony on my [C] boat

@@ -30,10 +30,8 @@ So button up and [C] aye be [G] cheery
 And tak' a dram a-[D]-fore ye [G] go
 
 {c: Instrumental last 2 lines Chorus}
-{textcolour: blue}
-So button [G] up, and [C] aye be [G] cheery
-And tak' a dram a-[D]-fore ye [G] go
-{textcolour}
+&blue: So button [G] up, and [C] aye be [G] cheery
+&blue: And tak' a dram a-[D]-fore ye [G] go
 
 {c: Verse 3}
 So good-[G]-night, and [C] God be [G] with you,
@@ -50,13 +48,9 @@ So button [G] up, and [C] aye be [G] cheery
 And tak' a dram a-[D]-fore ye [G] go
 
 {c: Instrumental last 2 lines verse:}
-{textcolour: blue}
-We'll [D] drink a toast tae [G] absent friends,
-And [C] make the [G] beer and [C] whisky [D] flow.
-{textcolour}
+&blue: We'll [D] drink a toast tae [G] absent friends,
+&blue: And [C] make the [G] beer and [C] whisky [D] flow.
 
 {c: Instrumental last 2 lines Chorus}
-{textcolour: blue}
-So button [G] up, and [C] aye be [G] cheery
-And tak' a dram a-[D]-fore ye [G] go
-{textcolour}
+&blue: So button [G] up, and [C] aye be [G] cheery
+&blue: And tak' a dram a-[D]-fore ye [G] go

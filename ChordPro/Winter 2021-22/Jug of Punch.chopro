@@ -26,12 +26,10 @@ Upon his knee a [D] pretty wench
 And [E7] on the table a jug of [A] punch
 
 {c: Instrumental Chorus:}
-{textcolour: blue}
-[A] Too ra loo ra loo, too ra loo ra lay,
-Too ra [E7] loo ra loo, too ra [A] loo ra lay
-Upon his knee a [D] pretty wench
-And [E7] on the table a jug of [A] punch
-{textcolour}
+&blue: [A] Too ra loo ra loo, too ra loo ra lay,
+&blue: Too ra [E7] loo ra loo, too ra [A] loo ra lay
+&blue: Upon his knee a [D] pretty wench
+&blue: And [E7] on the table a jug of [A] punch
 
 {c: Verse 3:}
 [A] Let the doctors come with all their art
@@ -58,10 +56,8 @@ I'll tune me fiddle and I'll [D] rosin me bow
 And [E7] I'll be welcome wherever I [A] go
 
 {c: Instrumental 2nd half Chorus:}
-{textcolour: blue}
-[A] I'll tune me fiddle and I'll [D] rosin me bow
-And [E7] I'll be welcome wherever I [A] go
-{textcolour}
+&blue: [A] I'll tune me fiddle and I'll [D] rosin me bow
+&blue: And [E7] I'll be welcome wherever I [A] go
 
 {c: Verse 5:}
 [A] And when I'm dead and in my grave

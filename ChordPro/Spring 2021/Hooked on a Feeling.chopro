@@ -1,11 +1,9 @@
 {t: Hooked on a Feeling}
 {st: artist:BJ Thomas; writer:Mark James (1968)}
 
-{textcolour: red}
-Instrumental intro:
-[C] I can't stop this [Cmaj7] feeling [C7] deep inside of [F] me
-[Fm] Girl you just don't [C] realize what you [G7] do to me
-{textcolour}
+&blue: Instrumental intro:
+&blue: [C] I can't stop this [Cmaj7] feeling [C7] deep inside of [F] me
+&blue: [Fm] Girl you just don't [C] realize what you [G7] do to me
 
 [C] I can't stop this [Cmaj7] feeling [C7] deep inside of [F] me
 [Fm] Girl you just don't [C] realize what you [G7] do to me?
@@ -29,13 +27,11 @@ Keep it [Am] up girl yeah you [C7] turn me on
 High on be-[F]lieving [G7]
 That you're in [C] love with [Em] me [F] [G7]
 
-{textcolour: red}
-Instrumental break:
-[C] I can't stop this [Cmaj7] feeling [C7] deep inside of [F] me
-[Fm] Girl you just don't [C] realize what you [G7] do to me
-[C] I can't stop this [Cmaj7] feeling [C7] deep inside of [F] me
-[Fm] Girl you just don't [C] realize what you [G7] do to me
-{textcolour}
+&blue: Instrumental break:
+&blue: [C] I can't stop this [Cmaj7] feeling [C7] deep inside of [F] me
+&blue: [Fm] Girl you just don't [C] realize what you [G7] do to me
+&blue: [C] I can't stop this [Cmaj7] feeling [C7] deep inside of [F] me
+&blue: [Fm] Girl you just don't [C] realize what you [G7] do to me
 
 All the [C] good love when we're [Caug] all alone
 Keep it [Am] up girl yeah you [C7] turn me on

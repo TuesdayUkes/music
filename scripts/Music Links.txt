@@ -1,9 +1,12 @@
-2:42 Gary and Paulette (Proud Mary) http://69.5.217.253/TuesdayUkes/music/PDFs/Summer%202022/Proud%20Mary.pdf
-19:42 Mary Jane (Fiddler's Green) http://69.5.217.253/TuesdayUkes/music/PDFs/Summer%202020/Fiddler's%20Green.pdf
-25:10 Vany (We Used to) http://69.5.217.253/TuesdayUkes/music/PDFs/Summer%202022/we%20used%20to%20rev1.pdf
-34:37 Walter (When I Have to Take a Shower with the Blues) http://69.5.217.253/TuesdayUkes/music/PDFs/Summer%202022/When%20I%20Have%20to%20Take%20a%20Shower%20with%20the%20Blues.pdf
-45:04 Brenda (Happy Together) https://sanjoseukeclub.org/Song%20Book/Happy%20Together-Key%20of%20Dm%20-%20v4b.pdf
-49:45 Gary and Paulette (Stand by Me) http://69.5.217.253/TuesdayUkes/music/PDFs/Summer%202022/Stand%20by%20Me.pdf
-1:00:28 Mary Jane (Jug of Punch) http://69.5.217.253/TuesdayUkes/music/PDFs/Winter%202021-22/Jug%20of%20Punch.pdf
-1:04:33 Paul (Rainbow Connection) https://www.doctoruke.com/_player/rainbowconnection.html
-1:11:05 (Happy Trails)
+3:01 Mary Jane (Romance in Durango) https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Romance%20in%20Durango.pdf
+22:05 Paul (Just the Two of Us)
+26:00 Kent (Workin' at the Car Wash Blues)
+28:44 Walter (Blame It on the Bossa Nova) https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Blame%20It%20on%20the%20Bossa%20Nova.pdf
+36:01 Rich (Dreams) https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Dreams.pdf
+43:14 Gary and Paulette (Listen to the Radio) https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Listen%20to%20the%20Radio.pdf
+49:58 Mary Jane (Pastures of Plenty) https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202021/Pastures%20of%20Plenty.pdf
+56:30 Brenda (Downtown) https://www.sanjoseukeclub.org/Song%20Book/Downtown%20-%20v2%20web.pdf
+1:02:00 Paul (Time in a Bottle) https://www.doctoruke.com/_player/timeinabottledm.html
+1:05:23 group (Proud Mary) https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Proud%20Mary.pdf
+1:20:54 group (Standy by Me) https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Stand%20by%20Me.pdf
+1:24:32 group (Happy Trails) https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Happy%20Trails.pdf

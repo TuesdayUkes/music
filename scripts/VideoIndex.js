@@ -1,15 +1,16 @@
 document.write('\
 <table>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=3m01s">3:01</a><td>Mary Jane <td><a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Romance%20in%20Durango.pdf>Romance in Durango</a></td></td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=22m05s">22:05</a><td>Paul </td><td>Just the Two of Us</td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=26m00s">26:00</a><td>Kent </td><td>Workin\' at the Car Wash Blues</td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=28m44s">28:44</a><td>Walter <td><a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Blame%20It%20on%20the%20Bossa%20Nova.pdf>Blame It on the Bossa Nova</a></td></td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=36m01s">36:01</a><td>Rich <td><a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Dreams.pdf>Dreams</a></td></td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=43m14s">43:14</a><td>Gary and Paulette <td><a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Listen%20to%20the%20Radio.pdf>Listen to the Radio</a></td></td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=49m58s">49:58</a><td>Mary Jane <td><a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202021/Pastures%20of%20Plenty.pdf>Pastures of Plenty</a></td></td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=56m30s">56:30</a><td>Brenda <td><a href=https://www.sanjoseukeclub.org/Song%20Book/Downtown%20-%20v2%20web.pdf>Downtown</a></td></td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=1h02m00s">1:02:00</a><td>Paul <td><a href=https://www.doctoruke.com/_player/timeinabottledm.html>Time in a Bottle</a></td></td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=1h05m23s">1:05:23</a><td>group <td><a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Proud%20Mary.pdf>Proud Mary</a></td></td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=1h20m54s">1:20:54</a><td>group <td><a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Stand%20by%20Me.pdf>Standy by Me</a></td></td></tr>\
-<tr><td><a href="https://youtu.be/LJd8quPlT34?t=1h24m32s">1:24:32</a><td>group <td><a href=https://github.com/TuesdayUkes/music/blob/master/PDFs/Summer%202022/Happy%20Trails.pdf>Happy Trails</a></td></td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=16m30s">16:30</a><td>Mary Jane <td><a href=http://69.5.217.253/TuesdayUkes/music/PDFs/Summer%202022/Someday%20Soon.pdf>Someday Soon</a></td></td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=21m46s">21:46</a><td>Walter <td><a href=http://69.5.217.253/TuesdayUkes/music/PDFs/Summer%202022/KC%20Moan.pdf>KC Moan</a></td></td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=30m28s">30:28</a><td>Brenda <td><a href=http://69.5.217.253/TuesdayUkes/music/PDFs/Spring%202022/House%20of%20the%20Rising%20Sun%20-%20Scroll.pdf>House of the Rising Sun</a></td></td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=36m32s">36:32</a><td>Errol </td><td>Moon River</td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=42m14s">42:14</a><td>Christine </td><td>The River</td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=49m33s">49:33</a><td>Gary and Paulette <td><a href=http://69.5.217.253/TuesdayUkes/music/PDFs/Spring%202022/Deep%20in%20the%20West.pdf>Deep in the West</a></td></td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=55m28s">55:28</a><td>Mary Jane <td><a href=http://69.5.217.253/TuesdayUkes/music/PDFs/Spring%202022/Deep%20in%20the%20West.pdf>Deep in the West</a></td></td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=1h00m57s">1:00:57</a><td>Paul </td><td>Strawberry Fields Forever</td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=1h08m16s">1:08:16</a><td>group <td><a href=http://69.5.217.253/TuesdayUkes/music/PDFs/Summer%202022/Proud%20Mary.pdf>Proud Mary</a></td></td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=1h17m15s">1:17:15</a><td>group <td><a href=http://69.5.217.253/TuesdayUkes/music/PDFs/Summer%202022/Stand%20by%20Me.pdf>Stand by Me</a></td></td></tr>\
+<tr><td><a href="https://youtu.be/3-mX8tpZNDA?t=1h28m13s">1:28:13</a><td>group <td><a href=http://69.5.217.253/TuesdayUkes/music/PDFs/Summer%202022/Happy%20Trails.pdf>Happy Trails</a></td></td></tr>\
+<tr></tr>\
+<tr></tr>\
 </table>')
